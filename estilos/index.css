@@ -6,6 +6,8 @@
 body{
     background-color: rgb(46, 45, 45);
     color: white;
+    margin: 0;
+    padding: 0;
 }
 
 header{
@@ -14,8 +16,8 @@ header{
     width: 100%;
 }
 
-.rodape{
-    width: 100%;
+
+footer{
     background: url(../midias/cabecalho.jpg);
 }
 
@@ -66,10 +68,10 @@ header{
 
 table{
     text-align: left;
-    margin: auto;
     border: 2px solid black;
     border-collapse: collapse;
-    width: 90%;
+    width: 70%;
+    margin: auto;
 }
 
 tr, th, td{
