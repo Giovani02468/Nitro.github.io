@@ -6,8 +6,6 @@
 body{
     background-color: rgb(46, 45, 45);
     color: white;
-    margin: 0;
-    padding: 0;
 }
 
 header{
@@ -15,10 +13,9 @@ header{
     position: fixed;
     width: 100%;
 }
-
-
 footer{
     background: url(../midias/cabecalho.jpg);
+    width: 100%;
 }
 
 .rodape{
@@ -68,10 +65,10 @@ footer{
 
 table{
     text-align: left;
+    margin: auto;
     border: 2px solid black;
     border-collapse: collapse;
-    width: 70%;
-    margin: auto;
+    width: 90%;
 }
 
 tr, th, td{
@@ -111,6 +108,14 @@ td{
         .txt{
             font-size: 170%;
         }
+        .nitroheader{
+            width: 60px;
+            padding: 5px;
+        }
+        .link-menu{
+            padding: 5px;
+        }
+        
 }
 
 
