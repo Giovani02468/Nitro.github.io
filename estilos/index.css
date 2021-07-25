@@ -13,9 +13,16 @@ header{
     position: fixed;
     width: 100%;
 }
+
 footer{
     background: url(../midias/cabecalho.jpg);
     width: 100%;
+
+}
+
+.rodape{
+    width: 100%;
+    background: url(../midias/cabecalho.jpg);
 }
 
 .rodape{
